@@ -1,0 +1,193 @@
+[
+  {
+    "id": "ec1",
+    "title": "Irish economy grew strongly in 2023",
+    "details": "Despite inflationary pressures, consumer spending and the labour market remain strong.",
+    "type": "Economy",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "18/07/2024",
+    "image": "ec-news-1.webp"
+  },
+  {
+    "id": "ec2",
+    "title": "UK economy grew faster than expected in May",
+    "details": "A strong performance from the retail and construction sectors helped the economy grow by 0.4%.",
+    "type": "Economy",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "20/07/2024",
+    "image": "ec-news-2.webp"
+  },
+  {
+    "id": "ec3",
+    "title": "What would 'GB Energy' mean for Scotland's green economy?",
+    "details": "It is one of Labour's big election promises but what would a publicly-owned power company mean for Scotland?",
+    "type": "Economy",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "21/07/2024",
+    "image": "ec-news-3.webp"
+  },
+
+  {
+    "id": "ec4",
+    "title": "Wealth in Turkey grew the most in the world at 157% despite soaring inflation, according to ranking",
+    "details": "The next-highest countries in terms of average wealth growth per adult were Qatar at 20% and South Africa with about 16%. In the U.S., average wealth per adult grew just 2.5%.",
+    "type": "Economy",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "15/07/2024",
+    "image": "ec-news-4.webp"
+  },
+  {
+    "id": "ec5",
+    "title": "Powell indicates Fed won’t wait until inflation is down to 2% before cutting rates",
+    "details": "The central bank is looking for “greater confidence” that inflation will return to the 2% level, Powell said,The Fed’s next policy meeting is at the end of July.",
+    "type": "Economy",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "13/07/2024",
+    "image": "ec-news-5.webp"
+  },
+  {
+    "id": "ec6",
+    "title": "With high prices and mortgage rates, aspiring and current homeowners feel ‘stuck’",
+    "details": "Affordability has tumbled compared with just a few years ago, requiring people to shift expectations about what the path to homeownership looks like,This adds to economic woes felt by the average person and challenges a key component of the American dream.",
+    "type": "Economy",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "11/07/2024",
+    "image": "ec-news-3.webp"
+  },
+
+  {
+    "id": "er1",
+    "title": "Why hurricanes are moving dangerously slowly",
+    "details": "The behaviour of the world's most powerful storms is evolving. To adapt to more destructive hurricanes, we need to know how they're changing.",
+    "type": "Earth",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "12/07/2024",
+    "image": "ert-news-1.webp"
+  },
+  {
+    "id": "er2",
+    "title": "The ancient Mexican techniques to save water",
+    "details": "As water scarcity threatens their livelihoods, indigenous women in Mexico are relearning how to grow their ancestral foods.",
+    "type": "Earth",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "10/07/2024",
+    "image": "ert-news-2.webp"
+  },
+  {
+    "id": "er3",
+    "title": "What it's like to camp in Antarctica",
+    "details": "Marc Cieslak spends a night on ice, camping under the stars.",
+    "type": "Earth",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "09/07/2024",
+    "image": "ert-news-3.webp"
+  },
+
+  {
+    "id": "er4",
+    "title": "Our days are getting longer at an 'unprecedented rate' due to Earth's spin",
+    "details": "Earth, the lovely blue marble we call home, is changing. The culprit? Climate change. On top of warming weather and rising seas, it’s causing the ice masses in Greenland and Antarctica to melt, slowing Earth’s rotation and slowly lengthening our days.",
+    "type": "Earth",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "08/07/2024",
+    "image": "ert-news-4.webp"
+  },
+  {
+    "id": "er5",
+    "title": "Sea ice is losing its cooling power, making the Earth even warmer",
+    "details": "As we peel back the pages of our global narrative, we find a recurring theme – climate change. Recently, scientists bring to light another chapter in this ongoing saga; the diminishing cooling power of sea ice and its melting.",
+    "type": "Earth",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "07/07/2024",
+    "image": "ert-news-5.jpeg"
+  },
+  {
+    "id": "er6",
+    "title": "New anti-aging drug boosts lifespan by 25% while preventing cancer and gray hair",
+    "details": "Have you ever wished you could slow down the ticking clock of aging? Science might have come a smidgen closer to granting your wish. Researchers have developed a new anti-aging drug that claims to significantly increase lifespan, adding up to 25% more healthy, vibrant years.",
+    "type": "Earth",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "06/07/2024",
+    "image": "ert-news-6.jpeg"
+  },
+
+  {
+    "id": "sp1",
+    "title": "Who will win 2024 Ballon d'Or?",
+    "details": "Nominees for the world's best player award will be announced on 4 September - with the 2023-24 seasons and this summer's major tournaments the factors considered.",
+    "type": "Sport",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "05/07/2024",
+    "image": "sp-news-1.webp"
+  },
+  {
+    "id": "sp2",
+    "title": "'We have to believe the future is bright for Everton'",
+    "details": "Having left for England in 2009 as a timid 20-year-old, Coleman heads back home 15 years later after growing into a leader of men,Sean Dyche's side play their first pre-season friendly against the League of Ireland club following a five-day training camp just outside of Dublin.",
+    "type": "Sport",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "21/07/2024",
+    "image": "sp-news-2.webp"
+  },
+  {
+    "id": "sp3",
+    "title": "Helenius given two-year doping ban after Joshua loss",
+    "details": "Finland's Helenius, 40, tested positive for the female fertility drug clomifene in a sample provided to Ukad the day after his knockout defeat by Joshua.",
+    "type": "Sport",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "20/07/2024",
+    "image": "sp-news-3.webp"
+  },
+
+  {
+    "id": "sp4",
+    "title": "Milan sign Spain striker Morata from Atletico Madrid",
+    "details": "The Serie A side triggered Morata's release clause - which was reportedly, external about £11m - in order to sign him, The 31-year-old captained Spain to victory in Euro 2024 earlier this month.",
+    "type": "Sport",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "18/07/2024",
+    "image": "sp-news-4.webp"
+  },
+  {
+    "id": "sp5",
+    "title": "All you need to know about the Paris 2024 Olympics",
+    "details": "The opening ceremony to signal the official start of the Paris 2024 Olympics will be held on Friday, 26 July,But the sporting action actually begins on Wednesday, 24 July with pool matches in football, rugby sevens, handball and archery.",
+    "type": "Sport",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "15/07/2024",
+    "image": "sp-news-5.webp"
+  },
+  {
+    "id": "sp6",
+    "title": "Next England manager: FA advertises men's manager vacancy as search for Gareth Southgate's successor continues",
+    "details": "The FA is looking for Gareth Southgate's replacement as England manager and have advertised the role on its website; the job requirements include having 'a strong track record of delivering results in the Premier League'; Graham Potter and Eddie Howe are among the early frontrunners",
+    "type": "Sport",
+    "description": "Irish economy grew strongly in 2023",
+    "date": "14/07/2024",
+    "image": "sp-news-6.jpg"
+  },
+  {
+    "id": "o1",
+    "title": "Microsoft hiking Xbox Game Pass prices by up to 25%",
+    "details": "The gaming giant said its PC Game Pass subscription would increase by £2 to £9.99 per month.",
+    "type": "Other",
+    "date": "12/07/2024",
+    "image": "new-list-4.webp"
+  },
+  {
+    "id": "o2",
+    "title": "'A good thing for football' - Spain's victory caps off perfect campaign",
+    "details": "Football often divides opinion - but everyone is united to hail Spain's Euro 2024 success as fully deserved.",
+    "type": "Other",
+    "date": "15/07/2024",
+    "image": "new-list-3.webp"
+  },
+  {
+    "id": "o3",
+    "title": "Xi tackles slow growth as economy 'hits the brakes'",
+    "details": "A property crisis, local government debt, weak demand and unemployment are hurting China's economy.",
+    "type": "Other",
+    "date": "21/07/2024",
+    "image": "new-list-1.webp"
+  }
+]
