@@ -36,7 +36,7 @@ function Footer() {
         <hr className="mt-12 mb-2" />
         <footer
           className="py-5 px-5 items-center justify-center space-y-12
-         flex justify-around md:flex-row"
+         flex flex-col-reverse gap-10 justify-around md:flex-row"
         >
           <motion.div
             initial={{ opacity: 0, x: -30 }}

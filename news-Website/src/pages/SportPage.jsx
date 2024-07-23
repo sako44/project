@@ -51,7 +51,6 @@ function SportPage() {
       <div className="container px-6 mx-auto lg:px-32 mb-44">
         <div className="flex flex-col items-center">
         <SpecialPageLink title="Sport" />
-
           {contact}
         </div>
       </div>

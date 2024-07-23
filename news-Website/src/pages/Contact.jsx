@@ -11,7 +11,7 @@ function Contact() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, type: "spring" }}
       >
-        <div className="container flex flex-col items-center mx-auto px-5 py-5 md:max-lg:px-16 lg:px-32 ">
+        <div className="container flex flex-col items-center max-sm:px-5 max-md:px-12  mx-auto md:px-2 py-5 md:max-lg:px-16 lg:px-32 ">
           <form
             action=""
             className="w-full md:w-[80%] lg:w-[70%] xl:w-[60%] 2xl:w-[50%]"
@@ -23,7 +23,7 @@ function Contact() {
                 type="text"
                 placeholder="Full Name"
                 name="Full Name"
-                className="border-2 sm:w-[90%] md:w-[70%] lg:w-[50%] xl:w-[50%] rounded-md border-gray-500
+                className="border-2 max-sm:w-[250px]   max-md:w-[60%] md:w-[70%] lg:w-[50%] xl:w-[50%] rounded-md border-gray-500
               focus:outline-primary
                p-2"
               />
@@ -32,7 +32,7 @@ function Contact() {
                 type="email"
                 placeholder="Email"
                 name="Email"
-                className="border-2 sm:w-[90%] md:w-[70%] lg:w-[50%] xl:w-[50%] rounded-md border-gray-500
+                className="border-2 max-sm:w-[280px]  max-md:w-[70%] md:w-[80%] lg:w-[50%] xl:w-[50%] rounded-md border-gray-500
               focus:outline-primary  p-2"
               />
               <textarea
@@ -42,7 +42,7 @@ function Contact() {
                 cols="30"
                 rows="10"
                 placeholder="Message"
-                className="border-2 sm:w-[100%] md:w-[90%] lg:w-[80%] xl:w-[80%] rounded-md border-gray-500
+                className="border-2 max-sm:w-[300px]  max-md:w-[400px] sm:w-[100%] md:w-full lg:w-[80%] xl:w-[80%] rounded-md border-gray-500
               focus:outline-primary p-2"
               ></textarea>
               <button

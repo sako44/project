@@ -30,16 +30,18 @@ function EconomyPage() {
   if (data) {
     contact = (
       <>
-        {data.map((news) => (
-          <NewsSection
-            key={news.id}
-            title={news.title}
-            details={news.details}
-            id={news.id}
-            date={news.date}
-            image={`http://localhost:3000/${news.image}`}
-          />
-        ))}
+        <div className="grid grid-cols-1 gap-2  xl:grid-cols-3 md:max-xl:grid-cols-2">
+          {data.map((news) => (
+            <NewsSection
+              key={news.id}
+              title={news.title}
+              details={news.details}
+              id={news.id}
+              date={news.date}
+              image={`http://localhost:3000/${news.image}`}
+            />
+          ))}
+        </div>
       </>
     );
   }
@@ -48,9 +50,7 @@ function EconomyPage() {
       <div className="container px-6 mx-auto lg:px-32 mb-44">
         <div className="flex flex-col items-center">
           <SpecialPageLink title="Economy" />
-          <div className="grid grid-cols-1 gap-2  xl:grid-cols-3 md:max-xl:grid-cols-2">
-            {contact}
-          </div>
+          {contact}
         </div>
       </div>
       <Footer />
