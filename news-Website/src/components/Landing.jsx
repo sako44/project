@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import photo from "../assets/new-1.jpg";
 
 function Landing() {
   return (
@@ -52,7 +53,7 @@ function Landing() {
             <h1 className="text-3xl md:text-5xl font-bold py-3">
               Trading News
             </h1>
-            <img className="lg:w-[90%]" src="public/new-1.jpg" alt="" />
+            <img className="lg:w-[90%]" src={photo} alt="" />
           </div>
 
           <div className="flex flex-col ">

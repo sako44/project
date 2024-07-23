@@ -1,6 +1,7 @@
 import React from "react";
 import Footer from "../components/Footer";
 import { motion } from "framer-motion";
+import photo from "../assets/about-us.jpg";
 
 function AboutUs() {
   return (
@@ -11,7 +12,7 @@ function AboutUs() {
         transition={{ duration: 1, type: "spring" }}
       >
         <div className="container mx-auto flex flex-col  px-7 py-5 space-y-12">
-          <img src="public/about-us.jpg" alt="" />
+          <img src={photo} alt="" />
           <h1 className="text-3xl font-bold text-left">
             The BBC is the world’s leading public service broadcaster
           </h1>
