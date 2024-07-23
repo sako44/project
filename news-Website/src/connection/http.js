@@ -3,7 +3,7 @@ import { QueryClient } from "@tanstack/react-query";
 export const queryClient = new QueryClient();
 
 export async function fetchNews({ searchTerm, max, signal }) {
-  let url = "http://localhost:3000/news";
+  let url = `https://project-qfmp.onrender.com/news`;
 
   const params = new URLSearchParams();
   if (searchTerm) params.append("search", searchTerm);
@@ -28,7 +28,7 @@ export async function fetchNews({ searchTerm, max, signal }) {
 }
 
 export async function fetchHaber({ id, signal }) {
-  const response = await fetch(`http://localhost:3000/news/${id}`, {
+  const response = await fetch(`https://project-qfmp.onrender.com/news/${id}`, {
     signal,
   });
 
