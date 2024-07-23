@@ -11,7 +11,7 @@ function Contact() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, type: "spring" }}
       >
-        <div className="container flex flex-col items-center max-sm:px-5 max-md:px-12  mx-auto md:px-2 py-5 md:max-lg:px-16 lg:px-32 ">
+        <div className="container flex flex-col items-center max-sm:px-0 max-md:px-12  mx-auto md:px-2 py-5 md:max-lg:px-16 lg:px-32 ">
           <form
             action=""
             className="w-full md:w-[80%] lg:w-[70%] xl:w-[60%] 2xl:w-[50%]"
