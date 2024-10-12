@@ -62,7 +62,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "12/07/2024",
-    "image": "/public/ert-news-1.webp"
+    "image": "public/ert-news-1.webp"
   },
   {
     "id": "er2",
@@ -71,7 +71,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "10/07/2024",
-    "image": "/public/ert-news-2.webp"
+    "image": "public/ert-news-2.webp"
   },
   {
     "id": "er3",
@@ -80,7 +80,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "09/07/2024",
-    "image": "/public/ert-news-3.webp"
+    "image": "public/ert-news-3.webp"
   },
 
   {
@@ -90,7 +90,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "08/07/2024",
-    "image": "/public/ert-news-4.webp"
+    "image": "public/ert-news-4.webp"
   },
   {
     "id": "er5",
@@ -99,7 +99,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "07/07/2024",
-    "image": "/public/ert-news-5.jpeg"
+    "image": "public/ert-news-5.jpeg"
   },
   {
     "id": "er6",
@@ -108,7 +108,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "06/07/2024",
-    "image": "/public/ert-news-6.jpeg"
+    "image": "public/ert-news-6.jpeg"
   },
 
   {
