@@ -1,26 +1,26 @@
 [
   {
-    "path": "ec-news-1.webp",
+    "path": "/ec-news-1.webp",
     "caption": "ec-news"
   },
   {
-    "path": "ec-news-2.webp",
+    "path": "/ec-news-2.webp",
     "caption": "ec-news"
   },
   {
-    "path": "ec-news-3.webp",
+    "path": "/ec-news-3.webp",
     "caption": "ec-news"
   },
   {
-    "path": "ert-news-1.webp",
+    "path": "/ert-news-1.webp",
     "caption": "ert-news"
   },
   {
-    "path": "ert-news-2.webp",
+    "path": "/ert-news-2.webp",
     "caption": "ert-news"
   },
   {
-    "path": "ert-news-3.webp",
+    "path": "/ert-news-3.webp",
     "caption": "ert-news"
   }
 ]

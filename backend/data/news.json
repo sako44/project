@@ -6,7 +6,7 @@
     "type": "Economy",
     "description": "Irish economy grew strongly in 2023",
     "date": "18/07/2024",
-    "image": "ec-news-1.webp"
+    "image": "/ec-news-1.webp"
   },
   {
     "id": "ec2",
@@ -15,7 +15,7 @@
     "type": "Economy",
     "description": "Irish economy grew strongly in 2023",
     "date": "20/07/2024",
-    "image": "ec-news-2.webp"
+    "image": "/ec-news-2.webp"
   },
   {
     "id": "ec3",
@@ -24,7 +24,7 @@
     "type": "Economy",
     "description": "Irish economy grew strongly in 2023",
     "date": "21/07/2024",
-    "image": "ec-news-3.webp"
+    "image": "/ec-news-3.webp"
   },
 
   {
@@ -34,7 +34,7 @@
     "type": "Economy",
     "description": "Irish economy grew strongly in 2023",
     "date": "15/07/2024",
-    "image": "ec-news-4.webp"
+    "image": "/ec-news-4.webp"
   },
   {
     "id": "ec5",
@@ -43,7 +43,7 @@
     "type": "Economy",
     "description": "Irish economy grew strongly in 2023",
     "date": "13/07/2024",
-    "image": "ec-news-5.webp"
+    "image": "/ec-news-5.webp"
   },
   {
     "id": "ec6",
@@ -52,7 +52,7 @@
     "type": "Economy",
     "description": "Irish economy grew strongly in 2023",
     "date": "11/07/2024",
-    "image": "ec-news-3.webp"
+    "image": "/ec-news-3.webp"
   },
 
   {
@@ -62,7 +62,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "12/07/2024",
-    "image": "ert-news-1.webp"
+    "image": "/ert-news-1.webp"
   },
   {
     "id": "er2",
@@ -71,7 +71,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "10/07/2024",
-    "image": "ert-news-2.webp"
+    "image": "/ert-news-2.webp"
   },
   {
     "id": "er3",
@@ -80,7 +80,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "09/07/2024",
-    "image": "ert-news-3.webp"
+    "image": "/ert-news-3.webp"
   },
 
   {
@@ -90,7 +90,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "08/07/2024",
-    "image": "ert-news-4.webp"
+    "image": "/ert-news-4.webp"
   },
   {
     "id": "er5",
@@ -99,7 +99,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "07/07/2024",
-    "image": "ert-news-5.jpeg"
+    "image": "/ert-news-5.jpeg"
   },
   {
     "id": "er6",
@@ -108,7 +108,7 @@
     "type": "Earth",
     "description": "Irish economy grew strongly in 2023",
     "date": "06/07/2024",
-    "image": "ert-news-6.jpeg"
+    "image": "/ert-news-6.jpeg"
   },
 
   {
@@ -118,7 +118,7 @@
     "type": "Sport",
     "description": "Irish economy grew strongly in 2023",
     "date": "05/07/2024",
-    "image": "sp-news-1.webp"
+    "image": "/sp-news-1.webp"
   },
   {
     "id": "sp2",
@@ -127,7 +127,7 @@
     "type": "Sport",
     "description": "Irish economy grew strongly in 2023",
     "date": "21/07/2024",
-    "image": "sp-news-2.webp"
+    "image": "/sp-news-2.webp"
   },
   {
     "id": "sp3",
@@ -136,7 +136,7 @@
     "type": "Sport",
     "description": "Irish economy grew strongly in 2023",
     "date": "20/07/2024",
-    "image": "sp-news-3.webp"
+    "image": "/sp-news-3.webp"
   },
 
   {
@@ -146,7 +146,7 @@
     "type": "Sport",
     "description": "Irish economy grew strongly in 2023",
     "date": "18/07/2024",
-    "image": "sp-news-4.webp"
+    "image": "/sp-news-4.webp"
   },
   {
     "id": "sp5",
@@ -155,7 +155,7 @@
     "type": "Sport",
     "description": "Irish economy grew strongly in 2023",
     "date": "15/07/2024",
-    "image": "sp-news-5.webp"
+    "image": "/sp-news-5.webp"
   },
   {
     "id": "sp6",
@@ -164,7 +164,7 @@
     "type": "Sport",
     "description": "Irish economy grew strongly in 2023",
     "date": "14/07/2024",
-    "image": "sp-news-6.jpg"
+    "image": "/sp-news-6.jpg"
   },
   {
     "id": "o1",
@@ -172,7 +172,7 @@
     "details": "The gaming giant said its PC Game Pass subscription would increase by £2 to £9.99 per month.",
     "type": "Other",
     "date": "12/07/2024",
-    "image": "new-list-4.webp"
+    "image": "/new-list-4.webp"
   },
   {
     "id": "o2",
@@ -180,7 +180,7 @@
     "details": "Football often divides opinion - but everyone is united to hail Spain's Euro 2024 success as fully deserved.",
     "type": "Other",
     "date": "15/07/2024",
-    "image": "new-list-3.webp"
+    "image": "/new-list-3.webp"
   },
   {
     "id": "o3",
@@ -188,6 +188,6 @@
     "details": "A property crisis, local government debt, weak demand and unemployment are hurting China's economy.",
     "type": "Other",
     "date": "21/07/2024",
-    "image": "new-list-1.webp"
+    "image": "/new-list-1.webp"
   }
 ]
