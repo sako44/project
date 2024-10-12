@@ -63,7 +63,7 @@ function Main() {
               details={news.details}
               date={news.date}
               id={news.id}
-              image={`http://localhost:3000/${news.image}`}
+              image={`https://project-qfmp.onrender.com/${news.image}`}
             />
           ))}
         </div>

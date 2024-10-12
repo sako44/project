@@ -7,7 +7,6 @@ import Error from "../components/Error";
 import Footer from "../components/Footer";
 import SpecialPageLink from "../util/SpecialPageLink";
 
-
 function SportPage() {
   const { data, isError, error, isLoading } = useQuery({
     queryKey: ["news-sprot", { searchTerm: "Sport" }],
@@ -39,7 +38,7 @@ function SportPage() {
               details={news.details}
               id={news.id}
               date={news.date}
-              image={`http://localhost:3000/${news.image}`}
+              image={`https://project-qfmp.onrender.com/${news.image}`}
             />
           ))}
         </div>
@@ -50,7 +49,7 @@ function SportPage() {
     <>
       <div className="container px-6 mx-auto lg:px-32 mb-44">
         <div className="flex flex-col items-center">
-        <SpecialPageLink title="Sport" />
+          <SpecialPageLink title="Sport" />
           {contact}
         </div>
       </div>

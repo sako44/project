@@ -38,7 +38,7 @@ function EconomyPage() {
               details={news.details}
               id={news.id}
               date={news.date}
-              image={`http://localhost:3000/${news.image}`}
+              image={`https://project-qfmp.onrender.com/${news.image}`}
             />
           ))}
         </div>
